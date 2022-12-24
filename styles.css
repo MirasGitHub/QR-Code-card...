@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Outfit:wght@700&display=swap'); 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+body{
+    position: relative;
+    background-color: #F2F2F2;
+}
+
+img{
+    width: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.container{
+    background-color: #FFFFFF;
+    width: 270px;
+    height: 430px;
+    border-radius: 20px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    color: #1F314F;
+    line-height: 28px;
+    margin: 20px 0 20px 0;
+    font-family: 'Outfit', sans-serif;
+}
+
+p{
+    color: #7D889E;
+    text-align: center;
+    line-height: 19px;
+    letter-spacing: 0.1875px;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+}
